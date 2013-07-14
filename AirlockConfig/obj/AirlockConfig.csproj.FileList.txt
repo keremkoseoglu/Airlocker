@@ -1,0 +1,8 @@
+bin\Debug\AirlockConfig.dll
+bin\Debug\AirlockConfig.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AirlockConfig.dll
+obj\Debug\AirlockConfig.pdb
+bin\Release\AirlockConfig.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AirlockConfig.dll

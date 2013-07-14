@@ -1,0 +1,15 @@
+bin\Debug\AirlockConfigurer.exe
+bin\Debug\AirlockConfigurer.pdb
+bin\Debug\AirlockConfig.dll
+bin\Debug\AirlockConfig.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AirlockConfigurer.Form1.resources
+obj\Debug\AirlockConfigurer.csproj.GenerateResource.Cache
+obj\Debug\AirlockConfigurer.exe
+obj\Debug\AirlockConfigurer.pdb
+bin\Release\AirlockConfigurer.exe
+bin\Release\AirlockConfig.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AirlockConfigurer.Form1.resources
+obj\Release\AirlockConfigurer.csproj.GenerateResource.Cache
+obj\Release\AirlockConfigurer.exe
